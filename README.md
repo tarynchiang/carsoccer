@@ -1,1 +1,2 @@
 # carsoccer
+To render compelling 3D computer graphics and games in real time, all graphics data has to be sent to the GPU using a graphics API such as OpenGL or DirectX. I use the MinGfx library to work with 3D points and vectors in C+ + to compute the positions, velocities, and other quantities and this is a simple 3D interactive game based on the 2015 game Rocket League(http://rocketleague.psyonix.com/).
